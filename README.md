@@ -1,7 +1,6 @@
 # About-Soil
 <HTML>
 <HEAD>
-<TITLE>LINK</TITLE>
 </HEAD>
 <BODY bgcolor="aqua">
 <h1>
